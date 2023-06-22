@@ -1,0 +1,9 @@
+[submodule "syntest-core"]
+	path = syntest-core
+	url = https://github.com/Diego-Viero/syntest-core
+[submodule "syntest-javascript"]
+	path = syntest-javascript
+	url = https://github.com/syntest-framework/syntest-javascript.git
+[submodule "syntest-javascript-benchmark"]
+	path = syntest-javascript-benchmark
+	url = https://github.com/syntest-framework/syntest-javascript-benchmark.git
