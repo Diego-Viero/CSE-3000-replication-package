@@ -1,5 +1,5 @@
 # CSE-3000-replication-package
-Replication package of the paper titled "Is PSO a valid option for search-based test case generation in the context of dynamically-typed languages?" published at TU Delft 2023.
+Replication package of the paper titled "**Is PSO a valid option for search-based test case generation in the context of dynamically-typed languages?**" published at TU Delft 2023.
 
 The aforementioned paper introduces two Particle Swarm Optimization adaptations for the context of search-based test case generation for dynamically-typed languages. This repository contains all the necessary tools needed to replicate the experiment, including tools to visualize the results.
 
